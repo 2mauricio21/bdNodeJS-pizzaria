@@ -7,7 +7,7 @@ Fiz a estrutura des das primeiras rotas até o sistema completo,
 -Para a persistencia de dados foi utilizado o MySql workbench e MySQL server;
 -Finalizamos com a implementação do MVC (Model, View e Controller)
 
-linck para acessar o video da criação do projeto:
+link para acessar o video da criação do projeto:
 video 1:
 https://youtu.be/KSgH0Y7ngS8
 
